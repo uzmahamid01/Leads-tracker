@@ -4,6 +4,6 @@
     "name": "Leads tracker",
     "action": {
         "default_popup": "popup.html",
-        "default_icon": "dollar.png"
+        "default_icon": "dollar.jpeg"
     }
 }
